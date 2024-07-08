@@ -40,6 +40,69 @@ body{
     border-radius: 5px;
 }
 
-.banner-image{
-    height: ;
+
+/* main */
+main{
+    margin: 50px 150px;
 }
+
+/* Flower section */
+
+.titles{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 60px;
+}
+
+.title{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.description{
+    color: #656565;
+}
+
+
+
+.flower-container{
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    gap: 20px;  
+    justify-content: center;
+}
+
+.flower-1{
+    background-color: #fbafd4;
+    padding: 0 30px;
+    padding-top: 40px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+.flower-2{
+    background-color: #90c7ca;
+    padding: 0 30px;
+    padding-top: 40px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+.flower-3{
+    background-color: #aed08e89;
+    padding: 0 30px;
+    padding-top: 40px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+
+.name{
+    text-align: center;
+    margin-top: 15px;
+    color: 272727;
+}
+
+.flower-container img{
+    height: 230px;
+    width: 180px;
+}
+
