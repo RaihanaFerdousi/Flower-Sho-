@@ -106,3 +106,20 @@ main{
     width: 180px;
 }
 
+/* delivery section */
+.delivery {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #e7e7e7;
+    padding: 50px 50px;
+}
+
+.delivery div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
